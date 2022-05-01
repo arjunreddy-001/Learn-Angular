@@ -77,6 +77,14 @@ Collection of resources to learn angular
         - FormArray
         - ngSubmit
 
+    - Form Control Validity Identification
+        - ng-prestine
+        - ng-dirty
+        - ng-valid
+        - ng-invalid
+        - ng-touched
+        - ng-untouched
+
 5. Routing
     - RouterModule
     - Configuring Routes
