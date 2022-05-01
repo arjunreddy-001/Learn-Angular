@@ -109,21 +109,21 @@ Collection of resources to learn angular
 - i18n (Internationalization)
 - Accessibility
 
-# Resources
+## Resources
 
-## Youtube Channels -
+### Youtube Channels -
 1. [Decoded Frontend](https://www.youtube.com/c/DecodedFrontend/featured)
 2. [Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A)
 3. [CodAffection](https://www.youtube.com/c/CodAffection)
 
-## Udemy Courses -
+### Udemy Courses -
 1. [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
 2. [The Complete Angular Course: Beginner to Advanced](https://www.udemy.com/course/the-complete-angular-master-class)
 3. [Ionic - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps)
 4. [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript)
 5. [Angular Security Masterclass](https://www.udemy.com/course/angular-security)
 
-## Official Websites -
+### Official Websites -
 1. [Angular](https://angular.io)
 2. [Angular Material](https://material.angular.io)
 3. [ngRx](https://ngrx.io)
